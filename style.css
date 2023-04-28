@@ -40,6 +40,7 @@ footer {
   line-height: 2rem;
   text-align: right;
 }
+
 .us {
   display: flex;
   flex-direction: row;
@@ -49,6 +50,7 @@ footer {
 ul {
   display: inline-block;
 }
+
 li {
   list-style: none;
   padding: 0.5rem;
@@ -57,6 +59,10 @@ li {
 a {
   color: white;
   text-decoration: none;
+}
+
+h2 {
+  padding-bottom: 1rem;
 }
 
 /* Container no.2 */
